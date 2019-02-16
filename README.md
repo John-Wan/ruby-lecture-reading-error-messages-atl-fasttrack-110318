@@ -1,4 +1,4 @@
-# Intro to Reading Ruby Error Messages
+def say_message # Intro to Reading Ruby Error Messages
 
 ## Overview
 
